@@ -88,7 +88,7 @@ docker run -i bonolor/bookstore
   
 ## Usage <a name="usage"><a>
   
-1. When you run the proprgam, the the menu provides various options from which you can select.
+1. When you run the program, the menu provides various options from which you can select.
   
   <img width="1010" alt="Screenshot 2023-06-02 at 20 18 45" src="https://github.com/bonolobr/bookstore-app/assets/127111801/fa4c25af-5bd3-4306-8763-c6638b9b2d07">
 
@@ -96,7 +96,7 @@ docker run -i bonolor/bookstore
   
   - Enter the book title.
   - Enter the name of the author.
-  - Enter the quanity of books you would like to add.
+  - Enter the quantity of books you would like to add.
   - Once the book has been entered successfully, a message will notify you of that along with the display of the updated database that includes the new book added.
   
   <img width="1010" alt="Screenshot 2023-06-02 at 20 31 39" src="https://github.com/bonolobr/bookstore-app/assets/127111801/3c2323cf-ad32-43b9-ac53-ec4c0de3ad99">
