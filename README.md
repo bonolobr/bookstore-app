@@ -1,4 +1,4 @@
-# Bookstore App
+# eBookstore App
 
 ## Table of Contents
 
